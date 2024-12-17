@@ -2740,7 +2740,7 @@ input[type=radio] {
 .is-sticky .logo-light {
   display: none;
 }
-.is-sticky .logo-dark {
+.is-sticky .logo {
   display: inline-block;
 }
 .is-sticky .navbar-nav {
@@ -3325,8 +3325,8 @@ input[type=radio] {
 .header-transparent .navbar {
     background-color: #ffffff;
   }
-  .header .logo-dark,
-.header-transparent .logo-dark {
+    .header .logo,
+    .header-transparent .logo {
     display: inline-block;
   }
   .header .logo-light,
